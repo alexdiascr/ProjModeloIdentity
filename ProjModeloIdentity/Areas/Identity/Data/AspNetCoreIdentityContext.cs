@@ -4,6 +4,8 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ProjModeloIdentity.Areas.Identity.Data;
 
+//No fundo, fundo, se herda de DbContext
+//Porque se usar DbContext do Identity, porque o mesmo já definiu o DbSet para todas as tabelas que o Identity irá criar
 public class AspNetCoreIdentityContext : IdentityDbContext<IdentityUser>
 {
     public AspNetCoreIdentityContext(DbContextOptions<AspNetCoreIdentityContext> options)

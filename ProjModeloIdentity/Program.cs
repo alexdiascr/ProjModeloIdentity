@@ -7,22 +7,22 @@ var connectionString = builder.Configuration.GetConnectionString("AspNetCoreIden
     throw new InvalidOperationException("Connection string 'AspNetCoreIdentityContextConnection' not found.");
 
 
-//Está se adicionando o IdentityFramework e apontando para um contexto do AspNetCoreIdentityContext
+//Estï¿½ se adicionando o IdentityFramework e apontando para um contexto do AspNetCoreIdentityContext
 builder.Services.AddDbContext<AspNetCoreIdentityContext>(options =>
     options.UseSqlServer(connectionString));
 
-//Está se adicionando o Default Identity relacionando o IdentityUSer
-//IdentityUSer é uma biblioteca é uma classe do identity, onde o mesmo trabalha como se fosse o usuário
-//conectado na aplicação. 
+//Estï¿½ se adicionando o Default Identity relacionando o IdentityUSer
+//IdentityUSer ï¿½ uma biblioteca ï¿½ uma classe do identity, onde o mesmo trabalha como se fosse o usuï¿½rio
+//conectado na aplicaï¿½ï¿½o. 
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-    //Está se falando - Adicione camada de apresentação(camada visual) do Identity
+    //Estï¿½ se falando - Adicione camada de apresentaï¿½ï¿½o(camada visual) do Identity
     .AddDefaultUI()
-    //Está trabalhando com o Stores para trabalhar com EntityFramework, se estivesse se trabalhando com MongoDb
+    //Estï¿½ trabalhando com o Stores para trabalhar com EntityFramework, se estivesse se trabalhando com MongoDb
     //Adicionaria-se .AddMongoDbStore
     .AddEntityFrameworkStores<AspNetCoreIdentityContext>();
 
 // Add services to the container.
-builder.Services.AddControllersWithViews();
+builder.Services.AddRazorPages();
 
 var app = builder.Build();
 
@@ -38,12 +38,16 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+
+//Precisa estar configurado para trabalhar com autenticaï¿½ï¿½o
 app.UseAuthentication();;
 
 app.UseAuthorization();
 
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+// Rota padrÃ£o
+app.MapControllerRoute("default", "{controller=Home}/{action=Index}/{id?}");
+
+// Mapeando componentes Razor Pages (ex: Identity)
+app.MapRazorPages();
 
 app.Run();
