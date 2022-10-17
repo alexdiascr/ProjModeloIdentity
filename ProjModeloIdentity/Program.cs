@@ -63,22 +63,22 @@ else
 }
 
 
-// Redirecionamento para HTTPs
+//Redirecionamento para HTTPs
 app.UseHttpsRedirection();
-// Uso de arquivos estáticos (ex. CSS, JS)
+//Uso de arquivos estáticos (ex. CSS, JS)
 app.UseStaticFiles();
 
-// Adicionando suporte a rota
+//Adicionando suporte a rota
 app.UseRouting();
 
-// Autenticacao e autorização (Identity)
+//Autenticacao e autorização (Identity)
 app.UseAuthentication();
 app.UseAuthorization();
 
-// Rota padrão
+//Rota padrão
 app.MapControllerRoute("default", "{controller=Home}/{action=Index}/{id?}");
 
-// Mapeando componentes Razor Pages (ex: Identity)
+//Mapeando componentes Razor Pages (ex: Identity)
 app.MapRazorPages();
 
 app.Run();
