@@ -8,81 +8,85 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjModeloIdentity
 build_property.RootNamespace = ProjModeloIdentity
-build_property.ProjectDir = A:\Programacao\Desenvolvedor.io\ASP.NET\MVC\ProjModeloIdentity\ProjModeloIdentity\
+build_property.ProjectDir = A:\Programacao\Desenvolvedor.io\ASP.NET\MVC\ProModuloConfiguracoes\ProjModeloIdentity\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = A:\Programacao\Desenvolvedor.io\ASP.NET\MVC\ProjModeloIdentity\ProjModeloIdentity
+build_property.MSBuildProjectDirectory = A:\Programacao\Desenvolvedor.io\ASP.NET\MVC\ProModuloConfiguracoes\ProjModeloIdentity
 build_property._RazorSourceGeneratorDebug = 
 
-[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProjModeloIdentity/ProjModeloIdentity/Areas/Identity/Pages/Account/Login.cshtml]
+[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProModuloConfiguracoes/ProjModeloIdentity/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProjModeloIdentity/ProjModeloIdentity/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
+[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProModuloConfiguracoes/ProjModeloIdentity/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcVHdvRmFjdG9yQXV0aGVudGljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProjModeloIdentity/ProjModeloIdentity/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProModuloConfiguracoes/ProjModeloIdentity/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProjModeloIdentity/ProjModeloIdentity/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProModuloConfiguracoes/ProjModeloIdentity/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProjModeloIdentity/ProjModeloIdentity/Areas/Identity/Pages/Account/Register.cshtml]
+[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProModuloConfiguracoes/ProjModeloIdentity/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProjModeloIdentity/ProjModeloIdentity/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProModuloConfiguracoes/ProjModeloIdentity/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProjModeloIdentity/ProjModeloIdentity/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProModuloConfiguracoes/ProjModeloIdentity/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProjModeloIdentity/ProjModeloIdentity/Areas/Identity/Pages/_ViewImports.cshtml]
+[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProModuloConfiguracoes/ProjModeloIdentity/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProjModeloIdentity/ProjModeloIdentity/Areas/Identity/Pages/_ViewStart.cshtml]
+[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProModuloConfiguracoes/ProjModeloIdentity/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProjModeloIdentity/ProjModeloIdentity/Views/Home/Index.cshtml]
+[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProModuloConfiguracoes/ProjModeloIdentity/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProjModeloIdentity/ProjModeloIdentity/Views/Home/Privacy.cshtml]
+[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProModuloConfiguracoes/ProjModeloIdentity/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProjModeloIdentity/ProjModeloIdentity/Views/Home/Secrect.cshtml]
+[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProModuloConfiguracoes/ProjModeloIdentity/Views/Home/Secrect.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWNyZWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProjModeloIdentity/ProjModeloIdentity/Views/Shared/Error.cshtml]
+[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProModuloConfiguracoes/ProjModeloIdentity/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProjModeloIdentity/ProjModeloIdentity/Views/Shared/_LoginPartial.cshtml]
+[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProModuloConfiguracoes/ProjModeloIdentity/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProjModeloIdentity/ProjModeloIdentity/Views/Shared/_ValidationScriptsPartial.cshtml]
+[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProModuloConfiguracoes/ProjModeloIdentity/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProjModeloIdentity/ProjModeloIdentity/Views/_ViewImports.cshtml]
+[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProModuloConfiguracoes/ProjModeloIdentity/Views/Teste/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProModuloConfiguracoes/ProjModeloIdentity/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProjModeloIdentity/ProjModeloIdentity/Views/_ViewStart.cshtml]
+[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProModuloConfiguracoes/ProjModeloIdentity/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProjModeloIdentity/ProjModeloIdentity/Views/Shared/_Layout.cshtml]
+[A:/Programacao/Desenvolvedor.io/ASP.NET/MVC/ProModuloConfiguracoes/ProjModeloIdentity/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-dt8ncq9hx2

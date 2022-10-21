@@ -46,7 +46,7 @@ namespace ProjModeloIdentity.Extensions
             if (!CustomAuthorization.ValidarClaimsUsuario(context.HttpContext, _claim.Type, _claim.Value))
             {
                 //nao autorizado
-                context.Result = new ForbidResult();
+                context.Result = new StatusCodeResult(403);
             }
         }
     }    
