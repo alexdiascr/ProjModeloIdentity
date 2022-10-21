@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h31jPn0eeOv5NYSGMmAdEgezYhFbg3Vwa05wRskI3z0uWB4Dz/NbZ+CLqrN51w+oi63JOVXqJGFMwu9ffXWTjA==",
+  "dgSpecHash": "ptf3H31AzlDPKz7U39ZmxzokM7fYg9F9fawKrzlwnCaSP78fKT8s8yKwsLSD2lPp7Uaqdj0oVzRc1XjyMT/FJg==",
   "success": true,
-  "projectFilePath": "A:\\Programacao\\Desenvolvedor.io\\ASP.NET\\MVC\\ProModuloConfiguracoes\\ProjModeloIdentity\\ProjModeloIdentity.csproj",
+  "projectFilePath": "A:\\Programacao\\Desenvolvedor.io\\ASP.NET\\MVC\\ProjModeloIdentity\\ProjModeloIdentity\\ProjModeloIdentity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexd\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\alexd\\.nuget\\packages\\kisslog\\5.1.2\\kisslog.5.1.2.nupkg.sha512",

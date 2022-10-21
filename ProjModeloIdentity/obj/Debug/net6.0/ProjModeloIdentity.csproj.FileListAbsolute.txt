@@ -548,3 +548,9 @@ A:\Programacao\Desenvolvedor.io\ASP.NET\MVC\ProModuloConfiguracoes\ProjModeloIde
 A:\Programacao\Desenvolvedor.io\ASP.NET\MVC\ProModuloConfiguracoes\ProjModeloIdentity\bin\Debug\net6.0\KissLog.AspNetCore.dll
 A:\Programacao\Desenvolvedor.io\ASP.NET\MVC\ProModuloConfiguracoes\ProjModeloIdentity\bin\Debug\net6.0\KissLog.CloudListeners.dll
 A:\Programacao\Desenvolvedor.io\ASP.NET\MVC\ProModuloConfiguracoes\ProjModeloIdentity\bin\Debug\net6.0\KissLog.RestClient.dll
+A:\Programacao\Desenvolvedor.io\ASP.NET\MVC\ProjModeloIdentity\ProjModeloIdentity\bin\Debug\net6.0\appsettings.Production.json
+A:\Programacao\Desenvolvedor.io\ASP.NET\MVC\ProjModeloIdentity\ProjModeloIdentity\bin\Debug\net6.0\appsettings.Staging.json
+A:\Programacao\Desenvolvedor.io\ASP.NET\MVC\ProjModeloIdentity\ProjModeloIdentity\bin\Debug\net6.0\KissLog.dll
+A:\Programacao\Desenvolvedor.io\ASP.NET\MVC\ProjModeloIdentity\ProjModeloIdentity\bin\Debug\net6.0\KissLog.AspNetCore.dll
+A:\Programacao\Desenvolvedor.io\ASP.NET\MVC\ProjModeloIdentity\ProjModeloIdentity\bin\Debug\net6.0\KissLog.CloudListeners.dll
+A:\Programacao\Desenvolvedor.io\ASP.NET\MVC\ProjModeloIdentity\ProjModeloIdentity\bin\Debug\net6.0\KissLog.RestClient.dll

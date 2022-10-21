@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\Programacao\\Desenvolvedor.io\\ASP.NET\\MVC\\ProModuloConfiguracoes\\ProjModeloIdentity\\ProjModeloIdentity.csproj": {}
+    "A:\\Programacao\\Desenvolvedor.io\\ASP.NET\\MVC\\ProjModeloIdentity\\ProjModeloIdentity\\ProjModeloIdentity.csproj": {}
   },
   "projects": {
-    "A:\\Programacao\\Desenvolvedor.io\\ASP.NET\\MVC\\ProModuloConfiguracoes\\ProjModeloIdentity\\ProjModeloIdentity.csproj": {
+    "A:\\Programacao\\Desenvolvedor.io\\ASP.NET\\MVC\\ProjModeloIdentity\\ProjModeloIdentity\\ProjModeloIdentity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Programacao\\Desenvolvedor.io\\ASP.NET\\MVC\\ProModuloConfiguracoes\\ProjModeloIdentity\\ProjModeloIdentity.csproj",
+        "projectUniqueName": "A:\\Programacao\\Desenvolvedor.io\\ASP.NET\\MVC\\ProjModeloIdentity\\ProjModeloIdentity\\ProjModeloIdentity.csproj",
         "projectName": "ProjModeloIdentity",
-        "projectPath": "A:\\Programacao\\Desenvolvedor.io\\ASP.NET\\MVC\\ProModuloConfiguracoes\\ProjModeloIdentity\\ProjModeloIdentity.csproj",
+        "projectPath": "A:\\Programacao\\Desenvolvedor.io\\ASP.NET\\MVC\\ProjModeloIdentity\\ProjModeloIdentity\\ProjModeloIdentity.csproj",
         "packagesPath": "C:\\Users\\alexd\\.nuget\\packages\\",
-        "outputPath": "A:\\Programacao\\Desenvolvedor.io\\ASP.NET\\MVC\\ProModuloConfiguracoes\\ProjModeloIdentity\\obj\\",
+        "outputPath": "A:\\Programacao\\Desenvolvedor.io\\ASP.NET\\MVC\\ProjModeloIdentity\\ProjModeloIdentity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
